@@ -1,6 +1,6 @@
 # Samra
 
-A macOS Application to explore and edit Asset Catalog (.car) files on macOS, with a nicer native, modern-feeling UI that does not crash every couple of seconds.
+A macOS Application to explore and edit Asset Catalog (.car) files on macOS, with a nicer native, modern-feeling UI that does not crash every couple of seconds (LOL).
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/48022799/222929188-7eb62314-8433-42c6-baf5-5d851b679998.png">
 
